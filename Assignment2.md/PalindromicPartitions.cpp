@@ -60,7 +60,7 @@ void allPalPartitions(string str)
 } 
 int main() 
 { 
-    string str = "nitin"; 
+    string str = "vipin"; 
     allPalPartitions(str); 
     return 0; 
 } 
